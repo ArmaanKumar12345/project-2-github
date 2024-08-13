@@ -1,0 +1,16 @@
+
+    body { 
+      text-align: center; 
+      background-color: beige; 
+      font-family: Roboto, sans-serif;
+      margin: 20%;
+      {font-weight: bold}
+    }
+
+    li { 
+      list-style-type: upper-roman; 
+      padding: 20px; 
+    
+        h2 {font-size:30px } 
+    
+        p{line-height: inherit}
